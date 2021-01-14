@@ -11,13 +11,13 @@ update @ 2021/01/14
 
 send data at next clock in same packet
 
-![image](https://github.com/released/M480BSP_SPI_Slave_Polling/blob/main/capture_#1_01.jpg)
+![image](https://github.com/released/M480BSP_SPI_Slave_Polling/blob/main/capture_1_01.jpg)
 
-![image](https://github.com/released/M480BSP_SPI_Slave_Polling/blob/main/capture_#1_02.jpg)
+![image](https://github.com/released/M480BSP_SPI_Slave_Polling/blob/main/capture_1_02.jpg)
 
 send data packet , at next transmission
 
-![image](https://github.com/released/M480BSP_SPI_Slave_Polling/blob/main/capture_#2_01.jpg)
+![image](https://github.com/released/M480BSP_SPI_Slave_Polling/blob/main/capture_2_01.jpg)
 
-![image](https://github.com/released/M480BSP_SPI_Slave_Polling/blob/main/capture_#2_02.jpg)
+![image](https://github.com/released/M480BSP_SPI_Slave_Polling/blob/main/capture_2_02.jpg)
 
